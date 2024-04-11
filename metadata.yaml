@@ -1,0 +1,42 @@
+_repo: Legendoja_73162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarvas, Toivo
+    aliases:
+    - Kangas, Harri
+    - Kreivilä, Janne
+    - Kreivila, Janne
+    - Siilivaara, Otto W.
+    - T--s, T.
+    - T. T--s
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '56967'
+    url: http://www.gutenberg.org/2009/agents/56967
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_Tarvas
+description: ''
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73162'
+language: fi
+pgterms:marc905: 20220711014622tarvas
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: I. Ehtoolliskalkki. Risti. Pitkä-Piena. Scala santa. Verikivi --
+  II. Sydämenusko. Lintujen laulu. Galileanpuu -- III. Kehto. Punaiset helmet. Rakkauden
+  lahja. Lummekukka. Veripellon hinta. Orjantappuraruusu -- IV. Zemzem'in jousi. Allâh'in
+  hämähäkki. Kuoleman kuvastin -- V. Pyhä Ganges.
+title: Legendoja
+url: http://www.gutenberg.org/ebooks/73162
